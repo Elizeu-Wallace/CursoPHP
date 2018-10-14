@@ -1,5 +1,5 @@
 <?php
 
- echo "Checker Lucas Monteiro !";
+      echo "Checker Lucas Monteiro";
 
 ?>
